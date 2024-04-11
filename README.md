@@ -25,4 +25,4 @@ This project demonstrates how to crawl real estate data from a website using Bea
 
 
 ## Acknowledgments
-This project was developed as part of the coursework for the Data Science course at the School of Information and Communication Technology (SOICT), Hanoi University of Science and Technology (HUST).
+This project was developed as part of the coursework for the **Intro to Data Science** course at the SOICT, Hanoi University of Science and Technology (HUST).
